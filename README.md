@@ -1,4 +1,4 @@
-# 🚀 Sachin Pradeep Singh — GitHub Portfolio
+# 🚀 Sachin Pradeep Singh — Portfolio
 
 Welcome to my GitHub portfolio 👋  
 This repository serves as a **central index** of my key software projects, showcasing my work in **Android development, real-time systems, and system-level application design**.
@@ -12,8 +12,9 @@ This repository serves as a **central index** of my key software projects, showc
 ### 🔹 TapTrack  
 **Smart Attendance & Tracking System**  
 🔗 https://github.com/Sachinslemenceu/TapTrack
-
-![TapTrack App Screenshot](https://raw.githubusercontent.com/Sachinslemenceu/TapTrack/main/assets/preview.png)
+<p align="center">
+  <img width="1776" height="1090" alt="Group 75" src="https://github.com/user-attachments/assets/90f0d42c-acd8-4b88-9896-c6a7b883aa15" />
+</p>
 
 **Description**  
 TapTrack is an Android-based application designed to deliver a fast, reliable, and scalable solution for attendance and access tracking. The system emphasizes real-time interaction, clean architecture, and future-ready backend integration.
@@ -30,7 +31,9 @@ TapTrack is an Android-based application designed to deliver a fast, reliable, a
 **QR-Based Smart Access & Identification System**  
 🔗 https://github.com/Sachinslemenceu/QRSpot
 
-![QRSpot App Screenshot](https://raw.githubusercontent.com/Sachinslemenceu/QRSpot/main/assets/preview.png)
+<p align="center">
+  <img width="2123" height="1473" alt="Frame" src="https://github.com/user-attachments/assets/4baffb78-0d73-48f3-becb-681edd11b9d4" />
+</p>
 
 **Description**  
 QRSpot is an Android application that leverages QR codes for quick identification, access control, and verification workflows. It is designed for real-world deployment scenarios such as check-ins, authentication, and digital identity validation.
@@ -47,7 +50,9 @@ QRSpot is an Android application that leverages QR codes for quick identificatio
 **Desktop Companion Application for TapTrack**  
 🔗 https://github.com/Sachinslemenceu/TapTrack-PC
 
-![TapTrack-PC Screenshot](https://raw.githubusercontent.com/Sachinslemenceu/TapTrack-PC/main/assets/preview.png)
+<p align="center">
+  <img width="3065" height="1859" alt="Group 76" src="https://github.com/user-attachments/assets/46080dbc-6325-4cb1-b9b1-b3ee5ae7a7b2" />
+</p>
 
 **Description**  
 TapTrack-PC is the desktop-side companion for the TapTrack ecosystem. It supports system-level operations and integrates with the Android application to enable a complete mobile-to-desktop workflow.
